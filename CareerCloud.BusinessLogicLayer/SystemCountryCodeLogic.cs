@@ -10,12 +10,27 @@ using System.Threading.Tasks;
 
 namespace CareerCloud.BusinessLogicLayer
 {
-    public class SystemCountryCodeLogic : SystemBaseLogic<SystemCountryCodePoco>
+    public class SystemCountryCodeLogic 
     {
-        public SystemCountryCodeLogic(IDataRepository<SystemCountryCodePoco> repository):base(repository)
-        { }
 
-        public override void Verify(SystemCountryCodePoco[] pocos)
+        private IDataRepository<SystemCountryCodePoco> _repository;
+        public SystemCountryCodeLogic(IDataRepository<SystemCountryCodePoco> repository)
+        {
+            _repository = repository;
+        }
+
+        public SystemCountryCodePoco Get(string code)
+        {
+            return _repository.GetSingle(c => c.Code == code);
+        }
+
+        public List<SystemCountryCodePoco> Getall()
+        {
+            IList<SystemCountryCodePoco> pocos = _repository.GetAll();
+            return pocos.ToList();
+        }
+
+        public void Verify(SystemCountryCodePoco[] pocos)
         {
             List<ValidationException> exceptions = new List<ValidationException>();
 
@@ -39,15 +54,15 @@ namespace CareerCloud.BusinessLogicLayer
             }
         }
 
-        public override void Add(SystemCountryCodePoco[] pocos)
+        public void Add(SystemCountryCodePoco[] pocos)
         {
             Verify(pocos);           
-            base.Add(pocos);
+            _repository.Add(pocos);
         }
-        public override void Update(SystemCountryCodePoco[] pocos)
+        public void Update(SystemCountryCodePoco[] pocos)
         {
             Verify(pocos);
-            base.Update(pocos);
+            _repository.Update(pocos);
         }
     }
 }

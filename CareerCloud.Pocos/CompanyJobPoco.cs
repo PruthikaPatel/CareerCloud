@@ -25,7 +25,15 @@ namespace CareerCloud.Pocos
         [Column("Is_Company_Hidden")]
         public bool IsCompanyHidden { get; set; }
 
+        [Timestamp]
         [Column("Time_Stamp")]
         public Byte[] TimeStamp { get; set; }
+
+        public virtual ICollection<ApplicantJobApplicationPoco> ApplicantJobApplications { get; set; }
+        public virtual ICollection<CompanyJobSkillPoco> CompanyJobSkills { get; set; }
+
+        public virtual ICollection<CompanyJobDescriptionPoco> CompanyJobDescriptions { get; set; }
+        public virtual ICollection<CompanyJobEducationPoco> CompanyJobEducations { get; set; }
+        public virtual CompanyProfilePoco CompanyProfile { get; set; }
     }
 }

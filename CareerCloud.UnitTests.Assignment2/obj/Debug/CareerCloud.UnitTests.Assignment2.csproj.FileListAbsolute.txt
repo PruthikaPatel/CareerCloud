@@ -1,7 +1,5 @@
 C:\Users\dhire\Source\Repos\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
 C:\Users\dhire\Source\Repos\CareerCloud.UnitTests.Assignment2\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
-C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
-C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -20,6 +18,8 @@ C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\De
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\CareerCloud.Pocos.pdb
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csprojAssemblyReference.cache
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.csproj.CopyComplete
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.dll
 C:\Users\dhire\source\repos\CareerCloud\CareerCloud.UnitTests.Assignment2\obj\Debug\CareerCloud.UnitTests.Assignment2.pdb

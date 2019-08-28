@@ -1,0 +1,16 @@
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll.config
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.DataAccessLayer.pdb
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\dhire\source\repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\CareerCloud.EntityFrameworkDataAccess.pdb

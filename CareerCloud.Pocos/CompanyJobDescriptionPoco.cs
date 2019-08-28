@@ -22,7 +22,10 @@ namespace CareerCloud.Pocos
         [Column("Job_Descriptions")]
         public String JobDescriptions { get; set; }
 
+        [Timestamp]
         [Column("Time_Stamp")]
         public Byte[] TimeStamp { get; set; }
+
+        public virtual CompanyJobPoco CompanyJob { get; set; }
     }
 }

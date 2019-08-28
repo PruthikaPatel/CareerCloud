@@ -60,7 +60,6 @@
     <Compile Include="SecurityLoginsLogLogic.cs" />
     <Compile Include="SecurityLoginsRoleLogic.cs" />
     <Compile Include="SecurityRoleLogic.cs" />
-    <Compile Include="SystemBaseLogic.cs" />
     <Compile Include="SystemCountryCodeLogic.cs" />
     <Compile Include="SystemLanguageCodeLogic.cs" />
     <Compile Include="ValidationException.cs" />
